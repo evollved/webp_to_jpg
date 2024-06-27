@@ -7,4 +7,4 @@
 Описание: webp в Jpg
 
 
-sh "/ПУТЬ/ДО/webp_to_jpg.sh" %f
+Команда: sh "/ПУТЬ/ДО/webp_to_jpg.sh" %f
